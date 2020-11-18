@@ -12,5 +12,18 @@ So the idea I've been carrying around is a bit different from the typical textbo
 ## Math on Demand Edition?
 Not everybody likes maths<sup>\[citation needed\]</sup>. Crazy, I know 😜 No, let me be honest: I like maths [**iff**](https://en.wikipedia.org/wiki/If_and_only_if "If and only if") it is useful. So maybe [Pure Mathematics](https://en.wikipedia.org/wiki/Pure_mathematics) is not actually my preference. As an example back when studying I saw no purpose in learning about [Eigenvalues](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors) in Linear Algebra lectures until much later when in Physics they were applied to e.g. [Quantum Mechanics](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors#Schr%C3%B6dinger_equation). So in this project I try a different approach called "math on demand". There _will_ be maths, and not too little (I intend to basically directly use [Group Theory](https://en.wikipedia.org/wiki/Group_theory) as an example), but only when it's actually needed and motivated. Anything we don't need here I won't bother to explain – think [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it "You aren't gonna need it"), or even better, [Occam's razor](https://en.wikipedia.org/wiki/Occam's_razor), which boils down to "don't overthink it (unless you have to)", and good old [KISS](https://en.wikipedia.org/wiki/KISS_principle "Keep it simple, stupid").
 
-## What to expect, and when?
+## [The Shape of Things to Come](https://www.youtube.com/watch?v=x8zsE5zdlsQ&list=RDMW9FDByKsC4&index=2 "which word's are not capitalized in title case again?") – What to expect, and when?
 Let's see where this leads to… Consider yourself lucky I woke up way too early tonight so I felt like finally starting to write this, but be aware that I'm an expert in [getting things not-so-done](../gtnsd) aka procrastination, so don't get your hopes up too much. Then again, feel free to [motivate me gently](https://github.com/zommuter/toesnail/issues).
+
+---
+
+Let's start with a roughly commented outline, consider this a sneak preview.
+
+# Name it to tame it
+Something about |42\>, I'm sure. Hilbert-vectors in the end, but no need to explain those from the start.
+
+## Observe
+Measurement via operators, but not the Eigenvalue-Approach, rather some product space or such. Eigenvalues of course, too, but not as "measurement values" but rather to justify bases and such.
+
+## Symmetry / Noether / Gauge
+Gently get from dynamics via operators to group theory, conservation thanks to Noether's Theroem, and the connection between particle fields and gauge theory. Probably something about symmetry breaking à la Higgs, but I'll have to read up on that again first...
