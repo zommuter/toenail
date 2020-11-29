@@ -32,6 +32,12 @@ First of all, always writing something like "life, the universe and everything" 
 
 [^bra-ket]:  For more information feel free to consult the Wikipedia article on the [bra-ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation), but be advised it is _heavy_ on maths and will quickly invoke terms such as _Hilbert space_ – a very important concept, but way too soon to explain here.
 
+## Transition: [Time keeps on slippin'](https://youtu.be/9gF2UySGZAU "Fly Like An Eagle")
+Now basically $$\ket{42}$$ encodes _everything forever_. But being beings that perceive time in a linear fashion we're typically interested in transitions between states, such as the question how a state evolves over time. Interactions between systems are of interest as well. 
+
+## Observation: _(Insert witty headline here)_
+So describing the entirety of existence as $$\ket{42}$$ is all fun and games until you try to actually work with it. To get more serious, reality and theory must meet somewhere. 
+
 
 ---
 
