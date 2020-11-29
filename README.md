@@ -20,9 +20,12 @@ Not everybody likes maths<sup>\[citation needed\]</sup>. Crazy, I know 😜 No, 
 ## [The Shape of Things to Come](https://www.youtube.com/watch?v=x8zsE5zdlsQ&list=RDMW9FDByKsC4&index=2 "which word's are not capitalized in title case again?") – What to expect, and when?
 Let's see where this leads to… Consider yourself lucky I woke up way too early tonight so I felt like finally starting to write this, but be aware that I'm an expert in [getting things not-so-done](../gtnsd) aka procrastination, so don't get your hopes up too much. Then again, feel free to [motivate me gently](https://github.com/zommuter/toesnail/issues).
 
+# Name it to tame it
+First of all, always writing something like "life, the universe and everything" is quite tedious. It is _very_ convenient to use single-letter[^1] variables as abbreviations instead, such as $$t$$ for a time. For various reasons, not only Latin letters are used, but sometimes also Greek ones. In order determine the _state_ of a system, the letter Psi $$\Psi$$ (or it's lower case version $\psi$) is a very typical choice. And in order to indicate that it's a state, it is surrounded by a bar $$|$$ and an angle bracket $$\rangle$$ as $$\ket\Psi$$.
+
 ---
 
-Let's start with a roughly commented outline, consider this a sneak preview.
+Let's continue with a roughly commented outline, consider this a sneak preview.
 
 # Name it to tame it
 Something about |42\>, I'm sure. Hilbert-vectors in the end, but no need to explain those from the start.
@@ -32,3 +35,6 @@ Measurement via operators, but not the Eigenvalue-Approach, rather some product 
 
 ## Symmetry / Noether / Gauge
 Gently get from dynamics via operators to group theory, conservation thanks to Noether's Theroem, and the connection between particle fields and gauge theory. Probably something about symmetry breaking à la Higgs, but I'll have to read up on that again first...
+
+
+[^1]: Programmers actually frown upon this, and indeed when programming there's often too many variables to still keep an overview, so they use _descriptive_ variable names instead. In physics, formulae such as "velocity = (elapsed distance) / (elapsed time)" instead of $$v =\frac{\Delta x}{\Delta t}$$ would get quite messy quickly, especially when doing maths by hand.
