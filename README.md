@@ -21,7 +21,11 @@ Not everybody likes maths<sup>\[citation needed\]</sup>. Crazy, I know 😜 No, 
 Let's see where this leads to… Consider yourself lucky I woke up way too early tonight so I felt like finally starting to write this, but be aware that I'm an expert in [getting things not-so-done](../gtnsd) aka procrastination, so don't get your hopes up too much. Then again, feel free to [motivate me gently](https://github.com/zommuter/toesnail/issues).
 
 # Name it to tame it
-First of all, always writing something like "life, the universe and everything" is quite tedious. It is _very_ convenient to use single-letter[^1] variables as abbreviations instead, such as $$t$$ for a time. For various reasons, not only Latin letters are used, but sometimes also Greek ones. In order determine the _state_ of a system, the letter Psi $$\Psi$$ (or it's lower case version $\psi$) is a very typical choice. And in order to indicate that it's a state, it is surrounded by a bar $$|$$ and an angle bracket $$\rangle$$ as $$\ket\Psi$$.
+First of all, always writing something like "life, the universe and everything" is quite tedious. It is _very_ convenient to use single-letter[^1] variables as abbreviations instead, such as $$t$$ for a time. For various reasons, not only Latin letters are used, but sometimes also Greek ones. In order determine the _state_ of a system, the letter Psi $$\Psi$$ (or it's lower case version $\psi$) is a very typical choice. And in order to indicate that it's a state, it is surrounded by a bar $$|$$ and an angle bracket $$\rangle$$ as $$\ket\Psi$$. Since this is using the right half of an angle bracket pair, this is called a _ket_ vector. And yes, we'll later also encounter the left bracket counterpart $$\bra\Psi$$, called a _bra_ vector[^2].
+
+[^1]: Programmers actually frown upon this, and indeed when programming there's often too many variables to still keep an overview, so they use _descriptive_ variable names instead. In physics, formulae such as "velocity = (elapsed distance) / (elapsed time)" instead of $$v =\frac{\Delta x}{\Delta t}$$ would get quite messy quickly, especially when doing maths by hand.
+
+[^2]:  For more information feel free to consult the Wikipedia article on the [bra-ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation), but be advised it is _heavy_ on maths and will quickly invoke terms such as _Hilbert space_ – a very important concept, but way too soon to explain here.
 
 ---
 
@@ -35,6 +39,3 @@ Measurement via operators, but not the Eigenvalue-Approach, rather some product 
 
 ## Symmetry / Noether / Gauge
 Gently get from dynamics via operators to group theory, conservation thanks to Noether's Theroem, and the connection between particle fields and gauge theory. Probably something about symmetry breaking à la Higgs, but I'll have to read up on that again first...
-
-
-[^1]: Programmers actually frown upon this, and indeed when programming there's often too many variables to still keep an overview, so they use _descriptive_ variable names instead. In physics, formulae such as "velocity = (elapsed distance) / (elapsed time)" instead of $$v =\frac{\Delta x}{\Delta t}$$ would get quite messy quickly, especially when doing maths by hand.
