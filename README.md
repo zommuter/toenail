@@ -1,4 +1,10 @@
-# 🦶TOESNAIL-MODE🐌[![](img/cc-by-nc-sa-88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+---
+title: 🦶TOESNAIL-MODE🐌
+permalink: /
+---
+
+[![](img/cc-by-nc-sa-88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Theory of Everything - Some Novel Approach Including Love ❤️ – Math on Demand Edition
 
 [![](img/xkcd-55-useless.jpg)  
