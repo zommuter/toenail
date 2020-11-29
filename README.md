@@ -22,18 +22,22 @@ Let's see where this leads to… Consider yourself lucky I woke up way too early
 
 # Getting started
 ## Name it to tame it
-First of all, always writing something like "life, the universe and everything" is quite tedious. It is _very_ convenient to use single-letter[^variables] variables as abbreviations instead, such as $$t$$ for a time. For various reasons, not only Latin letters are used, but sometimes also Greek ones. In order determine the _state_ of a system, the letter Psi $$\Psi$$ (or it's lowercase version $$\psi$$) is a very typical choice. And in order to indicate that it's a state, it is surrounded by a bar $$|$$ and an angle bracket $$\rangle$$ as $$\ket\Psi$$. Since this is using the right half of an angle bracket pair, this is called a _ket_ vector. And yes, we'll later also encounter the left bracket counterpart $$\bra\Psi$$, called a _bra_ vector[^bra-ket]. Now if multiple states are considered, some options occur:
+First of all, always writing something like "life, the universe and everything" is quite tedious. It is _very_ convenient to use single-letter[^variables] variables as abbreviations instead, such as $$t$$ for a time. For various reasons, not only Latin letters are used, but sometimes also Greek ones. In order determine the _state_ of a system, the letter Psi $$\Psi$$ (or it's lowercase version $$\psi$$) is a very typical choice. And in order to indicate that it's a state, it is surrounded by a bar $$|$$ and an angle bracket $$\rangle$$ as $$\ket\Psi$$. Since this is using the right half of an angle bracket pair, this is called a _ket_ vector. And yes, we'll later also encounter the left bracket counterpart $$\bra\Psi$$, called a _bra_ vector[^bra-ket]. Such a ket-vector can describe things as complicated as "life, the universe and everything" and as simple as a tossed coin. Now if multiple states are considered, some options occur:
 
 * Just use different letters, such as Phi $$\Phi$$ (lowercase $$\phi$$ or sometime $$\varphi$$ though that usually rather denotes an angle),
 * Add indices as subscripts, e.g. $$\ket{\Psi_{\text{in}}}$$,
-* Explicit labels, such as $$\ket{42}$$.
+* Explicit labels, such as $$\ket{42}$$ or $$\ket{\text{coin=heads}}$$.
 
 [^variables]: Programmers actually frown upon this, and indeed when programming there's often too many variables to still keep an overview, so they use _descriptive_ variable names instead. In physics, formulae such as "velocity = (elapsed distance) / (elapsed time)" instead of $$v =\frac{\Delta x}{\Delta t}$$ would get quite messy quickly, especially when doing maths by hand.
 
 [^bra-ket]:  For more information feel free to consult the Wikipedia article on the [bra-ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation), but be advised it is _heavy_ on maths and will quickly invoke terms such as _Hilbert space_ – a very important concept, but way too soon to explain here.
 
 ## Transition: [Time keeps on slippin'](https://youtu.be/9gF2UySGZAU "Fly Like An Eagle")
-Now basically $$\ket{42}$$ encodes _everything forever_. But being beings that perceive time in a linear fashion we're typically interested in transitions between states, such as the question how a state evolves over time. Interactions between systems are of interest as well. 
+Now basically $$\ket{42}$$ encodes _everything forever_. But being beings that perceive time in a linear fashion we're typically interested in transitions between states, such as the question how a state evolves over time. Interactions between systems are of interest as well. Let's take the coin example again:
+
+$$\ket{\text{coin}} \to \ket{\text{tossed coin}}$$
+
+The arrow $$\to$$ just denotes this transition. #TODO: get to operators...
 
 ## Observation: _(Insert witty headline here)_
 So describing the entirety of existence as $$\ket{42}$$ is all fun and games until you try to actually work with it. To get more serious, reality and theory must meet somewhere. 
