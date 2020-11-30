@@ -1,6 +1,7 @@
 ---
 title: 🦶TOESNAIL-MODE🐌
 permalink: /
+author: Zommuter
 ---
 
 Theory of Everything - Some Novel Approach Including Love ❤️ – Math on Demand Edition
