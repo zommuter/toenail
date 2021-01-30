@@ -3,12 +3,15 @@ title: Narrativium
 permalink: /Narrativium
 ---
 
-Kinda part of my [Theory of Everything - Some Novel Approach Including Love ❤️ – Math on Demand Edition](/)
+Kinda part of my [Theory of Everything - Some Novel Approach Including Love ❤️ – Math on Demand Edition](./)
 [![](img/cc-by-nc-sa-88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Why do we keep s(k)ulking around on social media like this instead of doing something more meaningful?
 
 Because we are not merely addicted to #Narrativium: It is our drive, imbued into our very essence. And it is so much easier to absorb our daily dose from the billions of trickles provided by everyone else as a substitute drug #Gossipium, or temporarily saturate our unquenchable thirst by just giving in to the temptation by the incessable stream of Movies and Series providing #Fictionium than it is to find a properly satisfying Source Of Narrativium (acronymize that 😉), let alone create our own Narrativium that might even be worthy of sharing. And yet, there is so much more fulfilment possible by letting one's creativity work instead of merely using a "share" button - which briefly seems to trick the human brain into believing that one has actually participated in providing one's peers with proper Narrativium, possibly as part of an implicit social contract: "I give you all some Narrativium I found, now give me more in return". It is such a trivial action to take, even more effortless than gossiping. But let's be honest, it often just feels hollow.
+
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Gossypium_herbaceum_002.JPG)]  
+Gossypium herbaceum, the cotton plant (Photo by H. Zell from Wikipedia)(https://commons.wikimedia.org/wiki/File:Gossypium_herbaceum_002.JPG)
 
 Originally I merely wanted to post a witty quote about Narrativium:
 
