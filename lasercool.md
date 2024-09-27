@@ -68,12 +68,12 @@ The energetic symmetry of [resonance at rest](#resonance-at-rest) is no longer g
 
 If a photon interacts with an already excited system, it can cause an _identical_ photon to be emitted via _stimulated emission_ instead of the random _spontaneous emission_ mentioned before. In this case, the system will be back to its original velocity, only at a slightly shifted trajectory due to the temporary change of velocity during the excited phase.
 
-This effect can counter the laser cooling/heating described in [Resonance in motion](#resonance-in-motion). This is a simple explanation why laser cooling only works at a limited speed, since the next photon should only interact once spontaneous emission has sufficiently likely occurred.
+This effect can counter the laser cooling/heating described in [Resonance in motion](#resonance-in-motion). This is a simple explanation why laser cooling only works at a limited speed, since the next photon should only interact once spontaneous emission has sufficiently likely occurred. Also note how the system changes velocity and thus its relative resonance frequency once a first photon has been absorbed, so [off-resonance](#off-resonance) effects need to be considered as well.
 
-While this may sound detrimental at first, the effect is crucial for the actual function of a laser itself -- however, due to the random nature of spontaneous emission, a two-level system cannot lase on its own since lasing requires a majority of excited systems to resonate with. It is the very effect described in [Multiple levels](#multiple-levels) later on that is required for lasers to work at all as well as the foundation for the idea of cooling described in this document.
+While stimulated emission may sound detrimental to the idea of laser cooling at first, the effect is crucial for the actual function of a laser itself -- however, due to the random nature of spontaneous emission, a two-level system cannot lase on its own since lasing requires a majority of excited systems to resonate with. It is the very effect described in [Multiple levels](#multiple-levels) later on that is required for lasers to work at all as well as the foundation for the idea of cooling described in this document.
 
 ## Multiple (two-level?) systems
 
 ## Multiple levels
 
-## off-resonance
+## Off-resonance
