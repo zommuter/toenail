@@ -1,3 +1,11 @@
+---
+title: Lasercold
+permalink: /Lasercold
+---
+
+Kinda part of my [Theory of Everything - Some Novel Approach Including Love ❤️ – Math on Demand Edition](./)
+[![](img/cc-by-nc-sa-88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # Super-simple overview
 
 ## One photon, one two-level system
